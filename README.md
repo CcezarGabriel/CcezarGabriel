@@ -36,5 +36,7 @@
 
 - Aparentemente você ainda está lendo isso... Tudo bem contigo? Eu espero que sim
 
+- Fun fact: Eu jogo lol, sou prata IV quase bronze, meu nick é Devhu caso queira jogar ~~Se tudo der certo, isso foi adicionado com a outra branch~~
+
 # _Enfim, é isso. Tenha uma boa noite!_
  

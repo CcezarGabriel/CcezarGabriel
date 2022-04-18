@@ -6,7 +6,7 @@
 ## _Informações Gerais_
 
 - Meu nome é Gabriel Cezar, mas me chame só de Cezar se desejar
-- No momento da escrita disto eu tenho 17 anos e estudo no CTISM/UFSM
+- No momento da escrita disto eu tenho 18 anos e estudo no CTISM/UFSM
 - Estudo informatica e tenho desejo de continuar nessa area
 
 ## _Hobbies_
@@ -25,8 +25,7 @@
 
 ## _Informações Extras sem muita relevancia_
 
-- Se por algum motivo você ficou curioso sobre isto, meu mangá favorito é Toriko, o mangá, **FIQUE LONGE DO ANIME**; 
-- e minha obra favorita em geral é One Piece
+- Se por algum motivo você ficou curioso sobre isto, meu mangá favorito é Monster, mas isso muda todo dia praticamente, alias, leia Monster, mó bom; 
 
 - Aliás, não me peça para falar das coisas que eu gosto, eu me empolgo e acabo falando muito sobre
 
@@ -36,7 +35,7 @@
 
 - Aparentemente você ainda está lendo isso... Tudo bem contigo? Eu espero que sim
 
-- Fun fact: Eu jogo lol, sou prata IV quase bronze, meu nick é Devhu caso queira jogar ~~Se tudo der certo, isso foi adicionado com a outra branch~~
+- Fun fact: Eu jogo lol infelizmente, meu nick é Devhu caso queira jogar, ou kitar caso caia comigo ~~Se tudo der certo, isso foi adicionado com a outra branch~~
 
 # _Enfim, é isso. Tenha uma boa noite!_
  
